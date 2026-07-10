@@ -15,6 +15,7 @@ Through data preprocessing, exploratory data analysis, and visualization, the pr
 - **Features:** 23
 - **File Format:** CSV
 - **Dataset:** [AI Hiring, Layoffs & Workforce Analytics](https://www.kaggle.com/datasets/aiexplorer77/ai-hiring-layoffs-and-workforce-analytics)
+
 **Note:** The dataset is not included in this repository because it exceeds GitHub's web upload size limit. Please use the Kaggle link above to access the dataset.
 
 ## Tools & Technologies
